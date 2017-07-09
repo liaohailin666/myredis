@@ -1,0 +1,7 @@
+
+<dependency>
+				<!-- redis 缓存 -->
+				<groupId>redis.clients</groupId>
+				<artifactId>jedis</artifactId>
+				<version>2.6.0</version>
+</dependency>
